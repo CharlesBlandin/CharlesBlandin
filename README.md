@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CharlesBlandin
 - 👀 I’m interested in AI dev and Odoo (ERP) python coding
 - 🌱 I’m currently learning tu use AI to create new bot/agent and coding in Python
-- 💞️ I’m looking to collaborate on everything that is mink to my project s ;-
+- 💞️ I’m looking to collaborate on everything that is linked with my projects ;-
 - 📫 How to reach me charles@blandindelloye.com
 - 😄 Pronouns: ... HE
 - ⚡ Fun fact: GitHub's mascot, the Octocat, is named Monalisa! 🐙
